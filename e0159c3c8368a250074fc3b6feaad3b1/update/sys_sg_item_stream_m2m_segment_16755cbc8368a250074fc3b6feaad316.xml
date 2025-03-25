@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Wish Item Item Stream">da755cbc8368a250074fc3b6feaad315</item_stream>
+        <segment display_value="Wish Item Item Stream Segment">92755cbc8368a250074fc3b6feaad315</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-25 02:50:39</sys_created_on>
+        <sys_id>16755cbc8368a250074fc3b6feaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Wish List" source="x_1553854_wish_lis">e0159c3c8368a250074fc3b6feaad3b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">e0159c3c8368a250074fc3b6feaad3b1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_16755cbc8368a250074fc3b6feaad316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-25 02:50:39</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
